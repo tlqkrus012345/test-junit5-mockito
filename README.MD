@@ -52,5 +52,9 @@
 - 스프링 테스트 어노테이션 중, Web(Spring MVC)에 집중할 수 있는 어노테이션
 
 #### @DataJpaTest
+- JPA에 집중한 테스트이다.
+- 인메모리 데이터베이스를 사용하며 테스트가 끝나면 롤벡된다.. 
 
+- https://www.baeldung.com/?s=junit5
+- https://site.mockito.org/
 - https://mangkyu.tistory.com/143
